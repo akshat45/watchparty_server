@@ -119,7 +119,7 @@
 ## Hosted Link 
 https://watch-party-project.web.app/
 
-Link to Frontend Repo: https://github.com/ninad-0408/watchparty_frontend
+Link to Frontend Repo: https://github.com/akshat45/watchparty_frontend
 ## Instructions for local setup:
 
 Clone this repo using
