@@ -124,7 +124,7 @@ Link to Frontend Repo: https://github.com/akshat45/watchparty_frontend
 
 Clone this repo using
 ```bash
-git clone https://github.com/ninad-0408/watchparty_server.git
+git clone https://github.com/akshat45/watchparty_server.git
 cd watchparty_server
 ```
 After cloning create a <code>.env</code> file to store all the environment variables.
